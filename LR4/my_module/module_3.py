@@ -1,0 +1,1 @@
+third_function = lambda x, y, z: 3*x * y ** 2 - 9 * z
